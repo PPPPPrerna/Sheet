@@ -23,7 +23,7 @@ public class Cool {
 	
 	XSSFSheet sheet = word.getSheet("testdata");
 	int a=word.getNumberOfSheets();
-	
+	System.out.println("hey");
 	
 		
 		Iterator<Row> row=sheet.iterator();
@@ -37,6 +37,8 @@ public class Cool {
 			
 			//k++;
 			}
+			
+			System.out.println("hey");
 		
 				
 				while(row.hasNext()) {
