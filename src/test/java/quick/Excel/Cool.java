@@ -39,6 +39,7 @@ public class Cool {
 				//column=k;
 			
 			//k++;
+				System.out.println("aa");
 			}
 		
 				
