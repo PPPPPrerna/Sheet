@@ -28,8 +28,13 @@ public class Cool {
 
 
 	
+<<<<<<< HEAD
 	/////System.out.println("New values");
 	//System.out.println("New values");
+=======
+	System.out.println("New values");
+	System.out.println("New values");
+>>>>>>> develop
 	
 
 	
@@ -44,6 +49,7 @@ public class Cool {
 				//column=k;
 			
 			//k++;
+				System.out.println("aa");
 			}
 			
 			System.out.println("hey");
