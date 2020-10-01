@@ -25,6 +25,7 @@ public class Cool {
 	int a=word.getNumberOfSheets();
 	
 	System.out.println("New values");
+	System.out.println("New values");
 	
 	
 		
